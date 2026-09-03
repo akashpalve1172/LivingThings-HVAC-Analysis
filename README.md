@@ -1,5 +1,7 @@
 # Living Things – HVAC IoT Telemetry Data Analysis
 
+## HVAC IoT Telemetry Data Analysis using Python, EDA, Time Series Analysis, Anomaly Detection, and Energy Consumption Analysis
+
 ## Project Overview
 
 This project was completed as part of the Living Things Data Analyst Intern Assignment.
